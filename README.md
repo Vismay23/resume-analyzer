@@ -1,6 +1,6 @@
 ## Setup & Installation 👀
 
-To run this project, perform the following tasks 😨
+To run this project, perform the following tasks 
 
 Download the code file manually or via git
 ```bash
@@ -42,7 +42,7 @@ And replace the ```resume_parser.py``` with ```resume_parser.py```
 
 which was provided by me inside ```pyresparser``` folder
 
-``Congratulations 🥳😱 your set-up 👆 and installation is finished 😵🤯``
+``Congratulations your set-up and installation is finished ``
 
 I hope that your ``venvapp`` is activated and working directory is inside ``App``
 
