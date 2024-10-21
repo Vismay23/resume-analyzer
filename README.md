@@ -1,4 +1,4 @@
-## Setup & Installation 👀
+## Setup & Installation 
 
 To run this project, perform the following tasks 
 
